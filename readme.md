@@ -1,0 +1,1 @@
+Not responsive - specifically for iPhone xr
